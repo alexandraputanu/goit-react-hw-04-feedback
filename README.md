@@ -1,1 +1,3 @@
-# goit-react-hw-04-feedback
+# React homework template
+- React hooks
+- Emotion
